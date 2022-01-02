@@ -1,0 +1,72 @@
+
+.circle{
+  
+  padding-left: 20px;
+}
+.card-Title{
+ 
+  display: flex;
+  justify-content: space-between;
+  
+}
+.col1{
+    display: flex;
+    padding: 20px;
+
+}
+.symbol{
+  display: flex;
+  align-items: center;
+  justify-items: flex-end;
+  padding-bottom: 7px;
+  padding-inline-start: 210px;
+  font-size: 25px;
+ 
+   
+  
+}
+
+.kard{
+   
+  padding: 0px;
+  height: 12rem;
+  border-radius: 10px;
+}
+.col2{
+  display: flex;
+  flex-direction: row;
+  padding-left: 20px;
+}
+.text-for-card-1{
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 20px;
+  font-size: 20px;
+  font-weight: 500;
+  
+}
+.text-for-card{
+  padding-left: 130px;
+}
+.kard-first-row{
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  
+}
+.kard-second-row{
+  display: flex;
+  flex-direction: row;
+  
+  padding: 10px;
+}
+#root{
+  padding: 10px;
+}
+.text-forocard2{
+  font-weight: 600;
+}
+.col1{
+ 
+}
+

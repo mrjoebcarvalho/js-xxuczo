@@ -1,0 +1,280 @@
+.logo {
+  height: 32px;
+  margin: 16px;
+  background: rgba(255, 255, 255, 0.2);
+}
+.site-layout .site-layout-background {
+  background: #fff;
+}
+  [data-theme="dark"] .site-layout .site-layout-background {
+    background: white;
+  }
+  h1{
+    background-color: #fff;
+    font-size: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #3954FF;
+    
+    
+  }
+  
+  .ant-layout-sider-children{
+    background-color: whitesmoke;
+  }
+  .punith{
+    display: flex;
+    padding: 2% 6%;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+  }
+  .dashboard{
+    display: flex;
+    padding: 0% 6%;
+    justify-content: space-between;
+    align-items: center;
+    
+  }
+  nav{
+    display: flex;
+    padding: 0% 6%;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .nav-links{
+    flex: 1;
+    text-align: right;
+  }
+  .nav-links ul li{
+  display: inline-block;
+  padding: 10px 40px;
+  
+ 
+  position: relative;
+  font-size: 30px;
+  }
+  
+  h4{
+    padding-left: 20px;
+  }
+  .firstrow{
+    display: flex;
+  }
+  .percent-card{
+    flex: ;
+  }
+  .bargraph{
+    flex: 1;
+    
+    
+  }
+  .secondrow{
+    display: flex;
+    flex-direction: row;
+    padding-top: 30px;
+    justify-content: space-between;
+
+  }
+  .linegraph{
+    
+   
+  }
+  .memberlist{
+    flex: 1;
+    padding-left:180px;
+   
+
+  }
+  .thoda-upper{
+    
+  }
+  
+ content{
+   padding: 20px;
+ }
+ .linegraph{
+   padding-inline-start: 20px;
+   
+ }
+ .percent-card{
+  padding-inline-start: 20px;
+  
+ }
+ .bargraph{
+   padding: 30px;
+ }
+ .flexed-needed{
+   display: flex;
+   flex-direction: row;
+
+ }
+ .center-part{
+   display: flex;
+ }
+ .title-for-bar-graph{
+  display: flex;
+  justify-content: center;
+ padding-bottom: 20px;
+  padding-inline-start: 27px;
+  
+}
+.middle-content{
+  display: flex;
+  padding-inline-start: 23px;
+  
+  
+  
+
+}
+.doct1{
+  background-color: blue;
+  height: 20px;
+  width: 20px;
+  
+}
+.doct2{
+  background-color: yellow;
+  height: 20px;
+  width: 20px;
+  padding-left: 10px;
+}
+.text1{
+  padding: px 50px 75px 100px;
+}
+p{
+  font-weight: 500;
+}
+.underline{
+  text-decoration: underline;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  padding-inline-start: 60px;
+  
+}
+.downwardarr{
+  display: flex;
+  padding-bottom: 5px;
+  text-decoration: underline;
+  
+  
+}
+.corner-content-1{
+  display: flex;
+  
+}
+.title-for-bar-graph-1{
+  display: flex;
+}
+.line-text-main{
+  display: flex;
+  flex-direction: row;
+  width:800px;
+  font-weight: 700;
+  padding-inline-start: 60px;
+}
+.line-text-21{
+  font-size: 20px;
+  font-weight: 600;
+}
+.line-text-22{
+  display: flex;
+  flex-direction: row-reverse;
+
+}
+.new-icon-for-it{
+  display: flex;
+  font-size: 25px;
+  
+}
+.line-text-23{
+  display: flex;
+  text-decoration: underline;
+  flex-direction: row;
+  padding-inline-start: 490px;
+  padding-top: 5px;
+ 
+
+}
+.recharts-default-legend{
+  display: none
+}
+.icons-24{
+  font-size: 15px;
+  padding-top: 5px;
+  display: flex;
+}
+.icon25{
+  display: flex;
+  font-size: 25px;
+}
+.card-body{
+  
+}
+.recharts-tooltip-label{
+
+color: azure;
+}
+.recharts-tooltip-item-list{
+  
+}
+.recharts-default-tooltip{
+  content: attr(DataToolTip);
+}
+.height-increase{
+  padding-top: 20px;
+
+}
+.kard-first-row{
+  
+}
+.ant-menu-item{
+  height: fit-content;
+  padding: 10px;
+}
+.log-out-b-u-tt-o-n{
+  padding-left: 35px;
+ padding-top: 250px;
+ padding-bottom: 40px;
+}
+.increasedhi{
+  padding-top: 0px;
+}
+.ant-list-item-meta-content{
+  display: flex;
+  flex-direction: column;
+  padding-right: 90px;
+}
+a{
+  padding-right: 30px;
+}
+.cgpa{
+  background-color: #FCF5E5;
+}
+img{
+  border-radius: ;
+  width: 75%;
+}
+.recharts-tooltip-label{
+  display: none;
+}
+.recharts-tooltip-item-list{
+  display: none;
+}
+.recharts-default-tooltip{
+  width: 90px;
+  height: 80px;
+ 
+}
+.kard-first-row{
+  
+}
+card-body{
+  box-shadow: 5px 10px #888888;
+}
+Card{
+  box-shadow: 5px 10px #888888;
+}
